@@ -86,7 +86,7 @@ const Main = () => {
             </p>
           </div>
           <button className="w-[219px] h-[63px] bg-[#4F9CF9] p-5 rounded-lg mt-[60px] hover:bg-[#3E82D4]">
-            Let's Go -&gt;
+            Let&#39;s Go -&gt;
           </button>
         </div>
         <div className="w-[686px] h-[479px] bg-[#C4DEFD]"></div>
@@ -108,7 +108,7 @@ const Main = () => {
             </p>
           </div>
           <button className="w-[219px] h-[63px] bg-[#4F9CF9] p-5 rounded-lg mt-[60px] text-white hover:bg-[#3E82D4] ">
-            Let's Go -&gt;
+            Let&#39;s Go -&gt;
           </button>
         </div>
       </div>
